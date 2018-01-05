@@ -1,0 +1,40 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(50, 165, 214);
+}
+
+.title {
+  width: 800px;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+input[type="submit"] {
+  padding: 6px 20px;
+  font-size: 20px;
+  color: #FFF;
+  border: 2px solid #191970;
+  background: #4169e1;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.comment_box {
+  width: 800px;
+  height: auto;
+  margin: 10px auto;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
